@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+partida.json
+*.yaml
+*.log
+*.DS_Store
+.vscode/
+.idea/
+dungeon_map_display.py
