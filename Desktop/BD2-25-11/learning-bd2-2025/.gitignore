@@ -1,0 +1,20 @@
+# Backend (Litestar)
+learning-litestar-bd2-2025/.venv/
+learning-litestar-bd2-2025/__pycache__/
+learning-litestar-bd2-2025/*.db
+learning-litestar-bd2-2025/bd2_library.db
+learning-litestar-bd2-2025/.env
+learning-litestar-bd2-2025/dist/
+learning-litestar-bd2-2025/build/
+
+# Frontend (Vue)
+learning-vue-bd2-2025/node_modules/
+learning-vue-bd2-2025/dist/
+learning-vue-bd2-2025/.env.local
+learning-vue-bd2-2025/backend/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
